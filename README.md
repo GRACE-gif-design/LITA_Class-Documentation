@@ -1,11 +1,23 @@
 # LITA_Class-Documentation
 
 ### Project Title: E commerce Sales Analysis
-```
+---
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tool-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
 This is where i documented my first project while leaening Data Analysis with the Incubator Hub
 
 
 ### Project Overview
+
 ```
 This data analysis project aims to generate insight into the sales performance of the E commerce 
 project over the past year. by aanalysing the various parameters in the data recieved we seek to 
@@ -63,3 +75,6 @@ WHERE CONDITION = TRUE
 
 ### Create a Table
 
+Heading 1   Heading 2   Heading 3
+---------   ---------   ---------
+Table 1    Table 2    Table 3
