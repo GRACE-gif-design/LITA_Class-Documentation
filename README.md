@@ -7,12 +7,16 @@ This is where i documented my first project while leaening Data Analysis with th
 
 ### Project Overview
 ```
-This data analysis project aims to generate insight into the sales performance of the E commerce project over the past year. by aanalysing the various parameters in the data recieved we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from out data.
+This data analysis project aims to generate insight into the sales performance of the E commerce 
+project over the past year. by aanalysing the various parameters in the data recieved we seek to 
+gather enough insight to make reasonable decisions which then enable us to tell compelling stories 
+around our data from the insight gotten and to know the best performance from out data.
 
 
 ### Data Sources
 ```
-The primary source of data used here is data sale.csv and this is an open source data that can be freely download from an open source online such as kaggle or FRED or any other data repository site.
+The primary source of data used here is data sale.csv and this is an open source data 
+that can be freely download from an open source online such as kaggle or FRED or any other data repository site.
 
 ### Tools Used
 ```
@@ -40,11 +44,22 @@ EDA involved the exploration of data to answer some questions about the data suc
 
 ### Data Analysis
 ```
-This is wherewe include some basic lines of code or queries or even some of the DAX expressions udes during your analysis;
+This is wherewe include some basic lines of code or queries or even some of the DAX
+expressions udes during your analysis;
 
 ```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
+### Data Visualization
+
+[Pivot Tables File.xlsx](https://github.com/user-attachments/files/17250926/Pivot.Tables.File.xlsx)
+
+
+😆
+
+💻
+
+### Create a Table
 
