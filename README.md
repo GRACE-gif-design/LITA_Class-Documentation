@@ -37,3 +37,11 @@ EDA involved the exploration of data to answer some questions about the data suc
 - What is the overall sales trend
 - Which product are top sellers
 - What are the products on peak sales?
+
+### Data Analysis
+This is wherewe include some basic lines of code or queries or even some of the DAX expressions udes during your analysis;
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
